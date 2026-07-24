@@ -12,3 +12,6 @@ class Solution:
                 if dp[i]: break
 
         return dp[0]
+
+    # Time Complexity -> O(N * M * K) -> where N is the size of s, M is the size of wordDict, k the maximum word length for wordDict
+    # Space Complexity -> O(N) -> where N is the size of the dp table
