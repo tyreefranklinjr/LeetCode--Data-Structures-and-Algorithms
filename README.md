@@ -2,7 +2,7 @@
 
 ## Overview
 
-This folder contains my daily LeetCode problem-solving practice.
+This folder contains my daily LeetCode problem-solving practice. 
 
 Each problem includes:
 - A clear problem statement
